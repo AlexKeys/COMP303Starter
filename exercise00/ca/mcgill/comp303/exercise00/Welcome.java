@@ -40,7 +40,8 @@ public class Welcome extends Application implements EventHandler<ActionEvent>, C
 	 * Launches the application.
 	 * @param pArgs This program takes no argument.
 	 */
-	public static void main(String[] pArgs) {
+	public static void main(String[] pArgs) 
+	{
         launch(pArgs);
     }
     
